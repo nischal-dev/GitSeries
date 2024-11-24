@@ -1,5 +1,5 @@
 Git Series Ep:5
 
-Change from mergeBranch2
+Changes from mergeBranch
 
 @nischal_dev
